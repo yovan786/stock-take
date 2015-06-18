@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stock Take</string>
+    <string name="app_name_complete">SFT Mobile Stock Take</string>
+    <string name="warehouse">Warehouse</string>
+    <string name="item">Item</string>
+    <string name="barcode">Barcode</string>
+    <string name="logo">Software Concepts</string>
+    <string name="qty">Qty</string>
+    <string name="rack_no">Rack number</string>
+    <string name="rack">Rack</string>
+    <string name="done">Done</string>
+    <string name="default_qty">1</string>
+    <string name="send_as_csv">Send as CSV</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="details">Detail</string>
+    <string name="menu_settings">Settings</string>
+    <string name="enter_warehouse">Warehouse name</string>
+    <string name="enter_warehouse_hint">Warehouse Name</string>
+    <string name="enter_batch_lines">You can now enter your batch lines.</string>
+    <string name="enter_item_value">You must enter an item value.</string>
+    <string name="enter_item_value_max">You must enter at least 13 characters for the item value.</string>
+    <string name="enter_qty_value">You must enter the quantity.</string>
+    <string name="email_csv_file">Email CSV File</string>
+    <string name="create_new_batch">Create a new batch</string>
+    <string name="new_batch_confirm_message">Do you want to create a new batch?</string>
+    <string name="select_warehouse">You have not entered a valid warehouse.\nPlease click on the delete icon in the action bar</string>
+    <string name="no_valid_items">Please add items to the current batch before proceeding.</string>
+    <string name="error_creating_csv">An error has occurred while creating the CSV file</string>
+    <string name="mail_subject">SFT Stock Take Export-[%WAREHOUSE%]-[%DEVICEIMEI%]-[%DATEEXPORT%]</string>
+    <string name="mail_main_message">Date: %DATEEXPORT%\n\nWarehouse: %WAREHOUSE%\n\nIMEI No.: %DEVICEIMEI%\n\nNo. of Records exported: %NUMOFRECORDS%</string>
+    <string name="sending_email">Sending email&#8230;</string>
+    <string name="total_no_of_items_is">The total number of items is:</string>
+    <string name="no_of_items">Number of items</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_delete">Confirm Delete&#8230;</string>
+    <string name="delete_confirm_message">Are you sure you want delete this line?</string>
+    <string name="confirm_email">Confirm email sending&#8230;</string>
+    <string name="email_confirm_message">Are you sure you want to send the captured data via email?</string>
+    <string name="title_activity_set_preference">Preferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart_app">You must restart the application for the modification to take place.</string>
+
+</resources>

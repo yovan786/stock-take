@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="MyDialogButtonBar" parent="@android:style/ButtonBar">
+    <item name="android:textColor">@color/white</item>
+    <item name="android:background">@drawable/round_corner_button</item>
+    <item name="android:textSize">@dimen/button_text_size</item>
+  </style>
+</resources>

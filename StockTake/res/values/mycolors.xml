@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_blue">#1d2172</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="white">#fff</color>
+    <color name="transparent_white">#eeffffff</color>
+    <color name="black">#000</color>
+    <color name="blue">#176cec</color>
+    <color name="blue_marine">#4444ff</color>
+    <color name="grey">#eee</color>
+    <color name="start_gradient">#ffffff</color>
+    <color name="end_gradient">#fff</color>
+    <color name="start_gradient_spinner">#e8d0a9</color>
+    <color name="end_gradient_spinner">#e8d0a9</color>
+
+</resources>
